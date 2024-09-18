@@ -4,7 +4,7 @@
 
 
 ## 简介：
-    基于[wxWidgets](https://www.wxwidgets.org/)框架编写的IDE，支持多个编程语言(C/C++ Golang Rust Python Java等)，
+    基于 wxWidgets 框架编写的IDE，支持多个编程语言(C/C++ Golang Rust Python Java等)，
     本项目遵循GPL3.0许可证协议，所有人都可以下载、使用、修改。
     
     本项目使用C++(20)编写、g++编译器编译。
